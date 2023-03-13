@@ -16,7 +16,7 @@ use Exception;
 
 class InstallationController extends Controller {
 
-    const REQUIRED_PHP_VERSION = '5.5.9';
+    const REQUIRED_PHP_VERSION = '7.4';
 
     /**
      * Create a new controller instance.
